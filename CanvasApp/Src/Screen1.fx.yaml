@@ -6,3 +6,9 @@ Screen1 As screen:
         Y: =40
         ZIndex: =1
 
+    Label2 As label:
+        Text: ="66666 test0415"
+        X: =64
+        Y: =164
+        ZIndex: =2
+
